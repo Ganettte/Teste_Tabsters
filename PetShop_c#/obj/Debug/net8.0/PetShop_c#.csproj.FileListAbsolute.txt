@@ -1,0 +1,14 @@
+C:\Users\Morgi\Documents\Scolaire\ISEP\Stage\Test stage\PetShop_c#\bin\Debug\net8.0\PetShop_c#.exe
+C:\Users\Morgi\Documents\Scolaire\ISEP\Stage\Test stage\PetShop_c#\bin\Debug\net8.0\PetShop_c#.deps.json
+C:\Users\Morgi\Documents\Scolaire\ISEP\Stage\Test stage\PetShop_c#\bin\Debug\net8.0\PetShop_c#.runtimeconfig.json
+C:\Users\Morgi\Documents\Scolaire\ISEP\Stage\Test stage\PetShop_c#\bin\Debug\net8.0\PetShop_c#.dll
+C:\Users\Morgi\Documents\Scolaire\ISEP\Stage\Test stage\PetShop_c#\bin\Debug\net8.0\PetShop_c#.pdb
+C:\Users\Morgi\Documents\Scolaire\ISEP\Stage\Test stage\PetShop_c#\obj\Debug\net8.0\PetShop_c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Morgi\Documents\Scolaire\ISEP\Stage\Test stage\PetShop_c#\obj\Debug\net8.0\PetShop_c#.AssemblyInfoInputs.cache
+C:\Users\Morgi\Documents\Scolaire\ISEP\Stage\Test stage\PetShop_c#\obj\Debug\net8.0\PetShop_c#.AssemblyInfo.cs
+C:\Users\Morgi\Documents\Scolaire\ISEP\Stage\Test stage\PetShop_c#\obj\Debug\net8.0\PetShop_c#.csproj.CoreCompileInputs.cache
+C:\Users\Morgi\Documents\Scolaire\ISEP\Stage\Test stage\PetShop_c#\obj\Debug\net8.0\PetShop_c#.dll
+C:\Users\Morgi\Documents\Scolaire\ISEP\Stage\Test stage\PetShop_c#\obj\Debug\net8.0\refint\PetShop_c#.dll
+C:\Users\Morgi\Documents\Scolaire\ISEP\Stage\Test stage\PetShop_c#\obj\Debug\net8.0\PetShop_c#.pdb
+C:\Users\Morgi\Documents\Scolaire\ISEP\Stage\Test stage\PetShop_c#\obj\Debug\net8.0\PetShop_c#.genruntimeconfig.cache
+C:\Users\Morgi\Documents\Scolaire\ISEP\Stage\Test stage\PetShop_c#\obj\Debug\net8.0\ref\PetShop_c#.dll
